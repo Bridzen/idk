@@ -1,1 +1,5 @@
-
+"dependencies": {
+    "react": "^18.2.0",
+    // ...other packages
+    "react-scripts": "5.0.1" <-- Vercel needs to see this to install the tool
+  },
